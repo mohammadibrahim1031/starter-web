@@ -9,4 +9,7 @@ this is the new file adding to the repository in the github
 testing my repo
 
 ## how to contribute
-hey check below link
+ihey check below link
+
+## copyright
+please fork it
