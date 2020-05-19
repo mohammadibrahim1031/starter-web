@@ -6,5 +6,5 @@ this is a smaple file adding to the git hub
 this is the new file adding to the repository in the github
 
 ## purpose
-
+testing my repo
 ## how to contribute
